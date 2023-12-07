@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://sah31m.github.io">Portfolio</a> | 
-  <a href="saheimwhyte2002@gmail.com">Email</a> |
+  <a href="[Projects](saheimwhyte2002@gmail.com)">Email</a> |
   <a href="https://www.linkedin.com/in/saheim-whyte-96501b236/">LinkedIn</a>
 </p>
 
