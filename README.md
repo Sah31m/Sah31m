@@ -14,6 +14,8 @@
 
 <br />
 
+💫 I'm currently learning new frameworks and programming languages. 
+
 - 🔭 I’m currently working on remaking my portfolio
 - 🌱 I’m currently learning React and Roact
 - 👯 I’m looking to collaborate on backend projects
@@ -29,6 +31,6 @@
 
 <!--
 
-💫 I'm currently learning new frameworks and programming languages. 
+
 
 --!>
