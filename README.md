@@ -1,7 +1,7 @@
 <p align="center">
   
   <img src="https://raw.githubusercontent.com/Sah31m/Sah31m/main/Artboard%201.png" width="100%" />  
-  <h1 align="center"><a href="https://sah31m.github.io">Saheim Whyte</a></h1>
+  <h1 align="center"><a href="https://sah31m.github.io">Stephen Whyte</a></h1>
   <p align="center"> Frontend developer, UI designer and Games developer</p>
   
 </p>
