@@ -1,9 +1,8 @@
 
 
 <div align="center">
-  <img src = "https://github.com/Sah31m/Sah31m/blob/main/Assets/UI_T_Divider1_H_4K.png" width = "512px"/>
-  <img src="https://github.com/Sah31m/Sah31m/blob/main/Assets/Artboard 1.png" width="100%"/>  
 
+  <img src="https://github.com/Sah31m/Sah31m/blob/main/Assets/Artboard 1.png" width="100%"/>  
   <h1 href="[https://git.io/typing-svg](https://sah31m.github.io)">
     <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=36&pause=1000&center=true&vCenter=true&width=500&height=100&lines=STEPHEN+WHYTE" alt="Typing SVG" />
   </h1>
