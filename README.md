@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src = "https://github.com/Sah31m/Sah31m/blob/main/Assets/UI_T_Divider1_H_4K.png" width = "100%"/>
+  <img src = "https://github.com/Sah31m/Sah31m/blob/main/Assets/UI_T_Divider1_H_4K.png" width = "512px"/>
   <img src="https://github.com/Sah31m/Sah31m/blob/main/Assets/Artboard 1.png" width="100%"/>  
 
   <h1 href="[https://git.io/typing-svg](https://sah31m.github.io)">
