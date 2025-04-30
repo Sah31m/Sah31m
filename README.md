@@ -8,7 +8,7 @@
   </h1>
   
   ![Profile Counter](https://komarev.com/ghpvc/?username=Sah31m&color=lightgrey)
-  ![Test](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fany_text-Stephen_Whyte-blue?logo=inspire&label=LinkedIn)
+  [![Test](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fany_text-Stephen_Whyte-blue?logo=inspire&label=LinkedIn)](https://www.linkedin.com/in/stephen-whyte-96501b236/)
   ![GitHub](https://img.shields.io/github/followers/Sah31m)
   
 </div>
